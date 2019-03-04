@@ -1,0 +1,28 @@
+{
+  "name": "parawise",
+  "version": "1.0.0",
+  "description": "Website for Bloggers and Readers",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naren-Jegan/ParaWise.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS",
+    "NodeJS",
+    "Bootstrap4",
+    "Gulp",
+    "PosgresSQL"
+  ],
+  "author": "Naren-Sridharan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Naren-Jegan/ParaWise/issues"
+  },
+  "homepage": "https://github.com/Naren-Jegan/ParaWise#readme"
+}
